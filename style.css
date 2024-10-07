@@ -1,0 +1,232 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+}
+
+.logo img {
+    height: 50px;
+}
+
+/* .nav-links {
+    display: flex;
+} */
+
+.nav-links a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.image-container .nav-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.image-container2 {
+    position: relative;
+}
+
+.image-container2 img {
+    width: 1264px;
+    height: 355px;
+    background-size: cover;
+    background-position: center;
+    top: 130px;
+    left: 88px;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+}
+
+.text {
+    position: absolute;
+    width: 446px;
+    height: 167px;
+    top: 150px;
+    left: 300px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    color: white;
+    transform: translate(-50%, -50%);
+}
+
+.text span {
+    color: rgba(255, 0, 0, 0.788);
+}
+
+.heading2 {
+    width: 212px;
+    height: 33px;
+    top: 508px;
+    left: 88px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(37, 37, 37, 1);
+}
+
+.searchbar {
+    width: 1200px;
+    height: 46px;
+    /* top: 564px;
+    left: 88px;
+    gap: 0px; */
+    justify-items: space-between;
+    opacity: 0px;
+    background: blue;
+}
+
+.search {
+    width: 1100px;
+    height: 35px;
+    padding: 12px 0px 0px 0px;
+    gap: 7px;
+    border-radius: 2px 0px 0px 2px;
+    opacity: 0px;
+    background: rgba(243, 243, 243, 1);
+}
+
+/* .fa-solid fa-magnifying-glass {
+    width: 17px;
+    height: 17px;
+    gap: 1px;
+    opacity: 0px;
+
+} */
+
+.icon {
+    background: none;
+    border: none;
+    font-size: 18px;
+}
+
+.search input {
+    width: 136px;
+    height: 21px;
+    margin-left: 12px;
+    opacity: 0px;
+    outline: none;
+    /* border: none; */
+}
+
+input[type="text"] {
+    width: 136px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+
+.search-btn {
+    width: Fixed (55px)px;
+    height: Fixed (42px)px;
+    padding: 21px 0px 0px 0px;
+    gap: 9px;
+    border-radius: 0px 2px 2px 0px;
+    opacity: 0px;
+}
+
+.recipe-list {
+    width: Hug (750.4px)px;
+    height: Hug (86px)px;
+    top: 656px;
+    left: 88px;
+    /* gap: 20px; */
+    margin-top: 20px;
+    opacity: 0px;
+}
+
+.frame124 {
+    width: 236.8px;
+    height: 8px;
+    padding: 30px 29.8px 30px 29px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+    background: rgba(234, 170, 0, 1);
+}
+.fa-solid{
+    /* height: 26px; */
+    color: white;
+}
+/* .frame12{
+    width: 178px;
+    height: 26px;
+    top: 30px;
+    left: 29px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);    
+} */
+
+/*===========>>>>>>>>>>>>>>>*/
+
+/* .Nav-links {
+    width: Hug (251px)px; 
+    height: Hug (44px)px; 
+    top: 20px; 
+    left: 980px;
+    gap: 24px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.frame1 {
+    width: Hug (68px)px;
+    height: Hug (44px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 5px;
+    opacity: 0px;
+}
+
+.frame2 {
+    width: Hug (78px)px;
+    height: Hug (44px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 5px;
+    opacity: 0px;
+}
+
+.frame3 {
+    width: Hug (57px)px;
+    height: Hug (44px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 5px;
+    opacity: 0px;
+
+} */
+
+/* .navbar {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-bottom: 20px;
+}
+
+.profile {
+    width: Hug (42px)px;
+    height: Hug (42px)px;
+    top: 19px;
+    left: 1310px;
+    gap: 5px;
+    opacity: 0px;
+}
+
+img {
+    width: 42px;
+    height: 42px;
+    gap: 0px; 
+    opacity: 0px;
+    background-size: cover;
+    background-position: center;
+}
